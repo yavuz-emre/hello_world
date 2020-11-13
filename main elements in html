@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-tr">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- mobil cihazlara uyum için gerekli bilgiler-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--sayfa içeriği ile ilgili bilgiler  -  arama motorları için-->
+    <meta name="title" content="Halı Yıkama Fabrikası">
+    <meta name="keywords" content="Halı Yıkama, uygun fiyat halı yıkama">
+    <meta name="description" content="Haftanın her günü halı yıkama hizmeti ile hizmetinizdeyiz">
+
+    <link rel="stylesheet" type="text/css" href="css/style1.css">
+    <title>Halı Yıkama Fabrikası</title>
+</head>
